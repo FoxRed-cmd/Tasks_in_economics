@@ -1,0 +1,6 @@
+D:\Projects\Tasks_in_economics\ClassD\bin\Release\ClassD.dll
+D:\Projects\Tasks_in_economics\ClassD\bin\Release\ClassD.pdb
+D:\Projects\Tasks_in_economics\ClassD\obj\Release\ClassD.csprojAssemblyReference.cache
+D:\Projects\Tasks_in_economics\ClassD\obj\Release\ClassD.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks_in_economics\ClassD\obj\Release\ClassD.dll
+D:\Projects\Tasks_in_economics\ClassD\obj\Release\ClassD.pdb

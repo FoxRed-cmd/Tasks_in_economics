@@ -1,0 +1,13 @@
+D:\Projects\Tasks_in_economics\Tasks_in_economics\bin\Release\Tasks_in_economics.exe.config
+D:\Projects\Tasks_in_economics\Tasks_in_economics\bin\Release\Tasks_in_economics.exe
+D:\Projects\Tasks_in_economics\Tasks_in_economics\bin\Release\Tasks_in_economics.pdb
+D:\Projects\Tasks_in_economics\Tasks_in_economics\bin\Release\ClassD.dll
+D:\Projects\Tasks_in_economics\Tasks_in_economics\bin\Release\ClassD.pdb
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.csprojAssemblyReference.cache
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.Form1.resources
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.Properties.Resources.resources
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.csproj.GenerateResource.cache
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.csproj.CopyComplete
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.exe
+D:\Projects\Tasks_in_economics\Tasks_in_economics\obj\Release\Tasks_in_economics.pdb
