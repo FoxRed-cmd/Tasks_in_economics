@@ -3,3 +3,4 @@ D:\Projects\Tasks_in_economics\ClassD\bin\Debug\ClassD.pdb
 D:\Projects\Tasks_in_economics\ClassD\obj\Debug\ClassD.csproj.CoreCompileInputs.cache
 D:\Projects\Tasks_in_economics\ClassD\obj\Debug\ClassD.dll
 D:\Projects\Tasks_in_economics\ClassD\obj\Debug\ClassD.pdb
+D:\Projects\Tasks_in_economics\ClassD\obj\Debug\ClassD.csprojAssemblyReference.cache
